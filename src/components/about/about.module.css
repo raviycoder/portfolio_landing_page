@@ -24,14 +24,14 @@
 .imageContent{
     width: 100%;
     display: flex;
-    justify-content: end;
-    align-items: start;
+    justify-content: flex-end;
+    align-items: flex-start;
     flex-direction: column;
 }
 
 .imageContent2 {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: center;
     flex-direction: column;
     max-width: 500px;
@@ -40,7 +40,7 @@
 .imageContainer{
     max-width: 500px;
     display: flex;
-    align-items: start;
+    align-items: flex-start;
     position: relative;
 }
 
