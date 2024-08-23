@@ -1,0 +1,17 @@
+.button{
+    text-wrap: nowrap;
+    padding: 9px 10px;
+    border-radius: 6px;
+    border: none;
+    color: var(--color-white);
+    background-color: var(--color-darkorange-100);
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: var(--color-orangered);
+}
+
+.button:active{
+    background-color: var(--color-darkorange-200);
+}

@@ -1,0 +1,9 @@
+.main{
+    width: 100%;
+    display: inline;
+    justify-content: space-evenly;
+}
+
+.link{
+    margin-left: 20px;
+}
